@@ -30,12 +30,6 @@
 
 ---
 
-## 🏆 Achievements  
-- ✅ Built SQL projects involving joins, subqueries, triggers  
-- ✅ Automated small tasks using Python  
-- ✅ Published first project on GitHub  
-
----
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pavan-ahire-260940364) 
 
