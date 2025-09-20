@@ -1,4 +1,4 @@
-
+![profile view counter on GitHub](https://github.com/pavan-ahire)
 # 👋 Hi, I'm Pavan  
 
 🚀 Aspiring Data Science | Python | EDA | SQL | Power BI | Tableau | Statistics | AI | Machine Learning | Deep Learning | Data visualization | NLP | Computer Vision | Gen AI  
