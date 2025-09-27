@@ -57,3 +57,8 @@
 ## 📫 Connect with Me  
 - GitHub: [pavan-ahire](https://github.com/pavan-ahire)  
 - LinkedIn: [www.linkedin.com/in/pavan-ahire-260940364]
+
+ <p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600"/>
+</p>
+
