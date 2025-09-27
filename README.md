@@ -48,6 +48,11 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
+![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-brightgreen)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+
 ## 📫 Connect with Me  
 - GitHub: [pavan-ahire](https://github.com/pavan-ahire)  
 - LinkedIn: [www.linkedin.com/in/pavan-ahire-260940364]
