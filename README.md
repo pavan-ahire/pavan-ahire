@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Skills  
-- **Languages:** Python (Core,OOPS), Numpy , Pandas , Matplotlib , Seaborn , Plotly   
+- **Languages:** Python (Core,OOPS), Numpy , Pandas , Matplotlib , Seaborn , Plotly , BeautifulSoup , Requests , Regex 
 - **Databases:** MySQL   
 - **Tools:** Excel ,PowerBI , MySQL , Git, GitHub  
 - **Concepts:** Data Cleaning, Data Analysis, Reporting , Data Visualization
