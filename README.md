@@ -20,8 +20,29 @@
 - **Concepts:** Data Cleaning, Data Analysis, Reporting , Data Visualization
 
 ---
-
 ## 📂 Projects  
+
+### 🏍️ [Used Bike Market Analysis (Bikes4Sale.in)](https://github.com/pavan-ahire/Bikes4sale.in-Web-Scrapping-Project)
+- Web-scraped real data using **Python (BeautifulSoup + Requests)**  
+- Performed **EDA** using Pandas, NumPy, Matplotlib, Seaborn  
+- Analyzed pricing trends, brand patterns, and model distributions  
+- Created **3 dashboards in Power BI** for business insights  
+
+---
+
+### 📞 [Telecom Customer Churn Analysis](https://github.com/pavan-ahire/Telecom-Customers-Churn-Analysis)
+- Conducted end-to-end analysis on telecom churn dataset  
+- Cleaned data, performed feature analysis, and identified churn patterns  
+- Built visualizations to explore customer behavior and churn drivers  
+- Strengthened understanding of retention metrics and business KPIs  
+
+---
+### 🛢️ [Worldwide Energy Consumption Analysis](https://github.com/pavan-ahire/World-Wide-Energy-Consumption-Analysis-Using-MYSQL)
+- Performed end-to-end **MySQL analysis** on global energy consumption  
+- Cleaned, transformed, and analyzed worldwide energy usage trends  
+- Explored **renewable vs non-renewable** usage and country-wise insights  
+- Used SQL functions, joins, CTEs, and analytical queries  
+---
 
 ### 🎵 [Spotify Data Analysis](https://github.com/pavan-ahire/Spotify-Data-Analysis)  
 - Analyzed Spotify dataset using **MySQL** and **Excel**  
