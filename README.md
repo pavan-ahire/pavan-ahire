@@ -1,7 +1,7 @@
 ![profile view counter on GitHub](https://komarev.com/ghpvc/?username=pavan-ahire)
 # 👋 Hi, I'm Pavan  
 
-🚀 Aspiring Data Science | Python | EDA | SQL | Power BI | Tableau | Statistics | AI | Machine Learning | Deep Learning | Data visualization | NLP | Computer Vision | Gen AI  
+📈 Data Analyst || Aspiring Data Scientist || Python || EDA || SQL || Power BI || Tableau || Statistics ||Machine Learning || Deep Learning || Data visualization || NLP || Computer Vision || Gen AI
 
 ---
 
