@@ -13,13 +13,73 @@
 
 ---
 
-## 🛠️ Skills  
-- **Languages:** Python (Core,OOPS), Numpy , Pandas , Matplotlib , Seaborn , Plotly , BeautifulSoup , Requests , Regex 
-- **Databases:** MySQL   
-- **Tools:** Excel ,PowerBI , MySQL , Git, GitHub  
-- **Concepts:** Data Cleaning, Data Analysis, Reporting , Data Visualization
+### 🛠️ Skills & Technologies
+
+#### 👨‍💻 Programming & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-Pattern%20Matching-blue?style=for-the-badge)
+
+#### 📊 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge)
+
+#### 🤖 Machine Learning & NLP
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification%20%7C%20Regression-F7931E?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-2E8B57?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Text%20Processing-4B0082?style=for-the-badge)
+
+#### 🖼️ Image Processing
+![PIL](https://img.shields.io/badge/Python%20Image%20Library-PIL-6A5ACD?style=for-the-badge)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 📈 Analytics & BI Tools
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+#### 🛠️ Developer Tools
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🤖 Machine Learning Projects
+
+I maintain a dedicated repository showcasing **hands-on machine learning implementations** across multiple domains, focusing on **practical problem-solving, clean workflows, and real-world techniques**.
+
+🔗 **Repository:**  
+👉 [Machine Learning Projects](https://github.com/pavan-ahire/Machine-Learning-Projects)
+
+### 📌 Project Highlights
+
+- **Iris Flower Classification**
+  - Built a supervised classification model to predict iris species.
+  - Applied data preprocessing, feature analysis, and model evaluation.
+
+- **Diamond Price Prediction**
+  - Developed a regression-based model to estimate diamond prices.
+  - Performed feature engineering and exploratory data analysis (EDA).
+
+- **Email Spam Detection (NLP)**
+  - Implemented a text classification pipeline using NLP techniques.
+  - Used text cleaning, tokenization, TF-IDF, and machine learning models.
+
+- **Fake News Detection (NLP)**
+  - Built an end-to-end NLP pipeline to identify fake news articles.
+  - Applied text preprocessing, vectorization, and classification algorithms.
+
+- **Image Preprocessing Techniques**
+  - Implemented core image processing operations using OpenCV.
+  - Techniques include cropping, resizing, flipping, blurring, contrast enhancement, sharpness, and drawing shapes.
+
+
+📌 These projects demonstrate my ability to **apply machine learning concepts**, work with **structured and unstructured data**, and build **end-to-end analytical and ML workflows**.
+
+---
+
 ## 📂 Projects  
 
 ### 🏍️ [Used Bike Market Analysis (Bikes4Sale.in)](https://github.com/pavan-ahire/Bikes4sale.in-Web-Scrapping-Project)
@@ -51,14 +111,6 @@
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pavan-ahire-260940364) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
-![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-brightgreen)
-![Status](https://img.shields.io/badge/Project-Completed-success)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pavan-ahire&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pavan-ahire&theme=merko&hide_border=true)<br/>
