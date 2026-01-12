@@ -1,15 +1,17 @@
 ![profile view counter on GitHub](https://komarev.com/ghpvc/?username=pavan-ahire)
-# 👋 Hi, I'm Pavan  
+# Pavan Suresh Ahire  
 
-📈 Data Analyst || Aspiring Data Scientist || Python || EDA || SQL || Power BI || Tableau || Statistics ||Machine Learning || Deep Learning || Data visualization || NLP || Computer Vision || Gen AI
+## 📈 Data Analyst | Aspiring Data Scientist  
+
+**Python • SQL • Advanced Excel • Power BI • Statistics • EDA • Machine Learning • Data Visualization**
 
 ---
-
 ## 💡 About Me  
-- 🎓 Passionate about learning **Data Science , Data Analytics & Databases**  
-- 🛠️ Skilled in **SQL, Python, and Excel**  
-- 🌱 Currently exploring **Data Visualization & Advanced SQL**  
-- 💻 Love solving problems and analyzing datasets  
+- 🎓 Aspiring **Data Analyst** with hands-on experience in **Data Analysis, Machine Learning, and Databases**  
+- 🛠️ Skilled in **Python, SQL, Excel**, and analytical libraries for data manipulation and visualization  
+- 🤖 Worked on **Machine Learning, NLP, and Image Processing** projects involving real-world datasets  
+- 📊 Experienced in **EDA, data cleaning, feature engineering, and data visualization**  
+- 💻 Enjoy solving analytical problems and transforming raw data into meaningful insights  
 
 ---
 
