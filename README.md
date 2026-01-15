@@ -22,33 +22,27 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-Pattern%20Matching-blue?style=for-the-badge)
-
 #### 📊 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=for-the-badge)
-
 #### 🤖 Machine Learning & NLP
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification%20%7C%20Regression-F7931E?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-2E8B57?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-Text%20Processing-4B0082?style=for-the-badge)
-
 #### 🖼️ Image Processing
 ![PIL](https://img.shields.io/badge/Python%20Image%20Library-PIL-6A5ACD?style=for-the-badge)
-
 #### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 #### 📈 Analytics & BI Tools
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 #### 🛠️ Developer Tools
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 🤖 Machine Learning Projects
+## 🤖 [Machine Learning Projects](https://github.com/pavan-ahire/Machine-Learning-Projects)
 
 I maintain a dedicated repository showcasing **hands-on machine learning implementations** across multiple domains, focusing on **practical problem-solving, clean workflows, and real-world techniques**.
 
@@ -57,17 +51,11 @@ I maintain a dedicated repository showcasing **hands-on machine learning impleme
 
 ### 📌 Project Highlights
 
-- **Iris Flower Classification**
-  - Built a supervised classification model to predict iris species.
-  - Applied data preprocessing, feature analysis, and model evaluation.
-
-- **Diamond Price Prediction**
-  - Developed a regression-based model to estimate diamond prices.
-  - Performed feature engineering and exploratory data analysis (EDA).
-
-- **Email Spam Detection (NLP)**
-  - Implemented a text classification pipeline using NLP techniques.
-  - Used text cleaning, tokenization, TF-IDF, and machine learning models.
+- **Wine Type Prediction**
+  - Built a Machine Learning model to predict **wine type/class** based on chemical features.
+  - Performed **data preprocessing, EDA, and feature scaling** for better model performance.
+  - Implemented classification algorithms such as **KNN, Logistic Regression, and Naive Bayes**.
+  - Evaluated models using **accuracy, confusion matrix.**
 
 - **Fake News Detection (NLP)**
   - Built an end-to-end NLP pipeline to identify fake news articles.
@@ -77,9 +65,29 @@ I maintain a dedicated repository showcasing **hands-on machine learning impleme
   - Implemented core image processing operations using OpenCV.
   - Techniques include cropping, resizing, flipping, blurring, contrast enhancement, sharpness, and drawing shapes.
 
+- **Email Spam Detection (NLP)**
+  - Implemented a text classification pipeline using NLP techniques.
+  - Used text cleaning, tokenization, TF-IDF, and machine learning models.
+
+- **Diamond Price Prediction**
+  - Developed a regression-based model to estimate diamond prices.
+  - Performed feature engineering and exploratory data analysis (EDA).
+
+- **Iris Flower Classification**
+  - Built a supervised classification model to predict iris species.
+  - Applied data preprocessing, feature analysis, and model evaluation.
+
 
 📌 These projects demonstrate my ability to **apply machine learning concepts**, work with **structured and unstructured data**, and build **end-to-end analytical and ML workflows**.
 
+---
+## 📊🤖 [Machine Learning Algorithms – Case Studies](https://github.com/pavan-ahire/Machine-Learning-Algorithms-Case-Study)
+
+- In-depth **case studies on core Machine Learning algorithms**
+- Algorithms include **Naive Bayes, KNN, Decision Tree, Logistic Regression, Linear Regression**
+- Step-by-step approach: **Problem Understanding → EDA → Model Training → Evaluation**
+- Used **real datasets** to analyze performance and behavior of algorithms
+- Emphasis on **concept clarity and practical understanding**
 ---
 
 ## 📂 Projects  
