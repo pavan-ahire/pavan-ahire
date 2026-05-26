@@ -1,7 +1,7 @@
 ![profile view counter on GitHub](https://komarev.com/ghpvc/?username=pavan-ahire)
 # Pavan Suresh Ahire  
 
-## 📈 Data Analyst | Aspiring Data Scientist  
+## 📈 AI ML Engineer | Data Analyst | Aspiring Data Scientist  
 
 **Python • SQL • Advanced Excel • Power BI • Statistics • EDA • Machine Learning • Data Visualization**
 
