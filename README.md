@@ -4,7 +4,7 @@
 
 # Pavan Suresh Ahire
 
-## 🤖 AI/ML Engineer &nbsp;|&nbsp; Deep Learning &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; Data Scientist
+## 🤖 AI/ML Engineer &nbsp;|&nbsp; Deep Learning &nbsp;|&nbsp; Generative AI &nbsp;|&nbsp; Data Scientist &nbsp;|&nbsp; Data Analyst
 
 **Open to Opportunities — Building intelligent systems from data to deployment**
 
