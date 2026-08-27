@@ -1,1 +1,92 @@
+<svg width="900" height="360" viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A66C2"/>
+      <stop offset="55%" stop-color="#4527A0"/>
+      <stop offset="100%" stop-color="#6A0DAD"/>
+    </linearGradient>
+    <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#39FF14"/>
+      <stop offset="100%" stop-color="#0A66C2"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
 
+  <!-- card background -->
+  <rect x="3" y="3" width="894" height="354" rx="26" fill="url(#bgGrad)"/>
+
+  <!-- animated flowing border -->
+  <rect x="3" y="3" width="894" height="354" rx="26" fill="none" stroke="#39FF14" stroke-width="2.5" stroke-dasharray="18 12" stroke-linecap="round" opacity="0.9">
+    <animate attributeName="stroke-dashoffset" from="0" to="60" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- avatar monogram -->
+  <circle cx="112" cy="108" r="58" fill="#FFFFFF14" stroke="url(#avatarGrad)" stroke-width="3" filter="url(#softShadow)"/>
+  <text x="112" y="124" font-family="Verdana, Geneva, sans-serif" font-size="40" font-weight="bold" fill="#FFFFFF" text-anchor="middle">PA</text>
+
+  <!-- name -->
+  <text x="210" y="76" font-family="Verdana, Geneva, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF">Pavan Suresh Ahire</text>
+
+  <!-- roles -->
+  <text x="210" y="106" font-family="Consolas, Menlo, monospace" font-size="14" fill="#E4DCFF">Data Analyst  •  Business Analyst  •  AI/ML Engineer  •  Generative AI Developer</text>
+
+  <!-- divider -->
+  <line x1="210" y1="124" x2="860" y2="124" stroke="#FFFFFF33" stroke-width="1"/>
+
+  <!-- location -->
+  <g transform="translate(210,148)">
+    <path d="M0,-9 C-5,-9 -9,-5 -9,0 C-9,6 0,14 0,14 C0,14 9,6 9,0 C9,-5 5,-9 0,-9 Z" fill="#39FF14"/>
+    <circle cx="0" cy="-1" r="2.6" fill="#0D1117"/>
+    <text x="18" y="4" font-family="Verdana, Geneva, sans-serif" font-size="14" fill="#D7CCFF">Nashik, Maharashtra, India</text>
+  </g>
+
+  <!-- toolkit pills row 1 -->
+  <g font-family="Consolas, Menlo, monospace" font-size="13" font-weight="bold">
+    <g transform="translate(210,172)">
+      <rect width="52" height="27" rx="13.5" fill="#FFFFFF22" stroke="#FFFFFF55"/>
+      <text x="26" y="18" text-anchor="middle" fill="#FFFFFF">SQL</text>
+    </g>
+    <g transform="translate(274,172)">
+      <rect width="92" height="27" rx="13.5" fill="#F2C81122" stroke="#F2C81188"/>
+      <text x="46" y="18" text-anchor="middle" fill="#FFF3C9">Power BI</text>
+    </g>
+    <g transform="translate(378,172)">
+      <rect width="82" height="27" rx="13.5" fill="#3776AB33" stroke="#3776AB99"/>
+      <text x="41" y="18" text-anchor="middle" fill="#CFE6FF">Python</text>
+    </g>
+    <g transform="translate(472,172)">
+      <rect width="112" height="27" rx="13.5" fill="#FF6F0033" stroke="#FF6F0099"/>
+      <text x="56" y="18" text-anchor="middle" fill="#FFE0C2">TensorFlow</text>
+    </g>
+  </g>
+
+  <!-- toolkit pills row 2 -->
+  <g font-family="Consolas, Menlo, monospace" font-size="13" font-weight="bold">
+    <g transform="translate(210,208)">
+      <rect width="102" height="27" rx="13.5" fill="#1C3C3C55" stroke="#4FD1C599"/>
+      <text x="51" y="18" text-anchor="middle" fill="#C9FFF3">LangChain</text>
+    </g>
+    <g transform="translate(322,208)">
+      <rect width="62" height="27" rx="13.5" fill="#F54E0033" stroke="#F54E0099"/>
+      <text x="31" y="18" text-anchor="middle" fill="#FFDCCB">Groq</text>
+    </g>
+    <g transform="translate(394,208)">
+      <rect width="88" height="27" rx="13.5" fill="#00968833" stroke="#00968899"/>
+      <text x="44" y="18" text-anchor="middle" fill="#C6F5EE">FastAPI</text>
+    </g>
+  </g>
+
+  <!-- status -->
+  <g transform="translate(210,258)">
+    <circle cx="6" cy="0" r="6" fill="#22C55E">
+      <animate attributeName="r" values="6;9;6" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="22" y="5" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="bold" fill="#B9FFCB">Open to Data &amp; AI/ML roles</text>
+  </g>
+
+  <!-- quote -->
+  <text x="210" y="302" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="15" fill="#E9E3FF">"Find the signal in the data, then ship something that acts on it."</text>
+</svg>
